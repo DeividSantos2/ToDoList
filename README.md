@@ -32,9 +32,9 @@ Sim! Você pode usar este repositório como base para **estudos** ou como refer�
 
 ##  Imagens do Aplicativo  
 
-<img src="https://github.com/user-attachments/assets/39a5220e-7200-444b-b95e-14935eaccf30" width="400">  
-<img src="https://github.com/user-attachments/assets/ea48b81a-6808-43b0-a7b9-d22b501241cb" width="400">  
-<img src="https://github.com/user-attachments/assets/b730a1a5-3e6a-4ef7-bfe2-2e974888135b" width="400">  
+<img src="https://github.com/user-attachments/assets/39a5220e-7200-444b-b95e-14935eaccf30" width="300">  
+<img src="https://github.com/user-attachments/assets/ea48b81a-6808-43b0-a7b9-d22b501241cb" width="300">  
+<img src="https://github.com/user-attachments/assets/b730a1a5-3e6a-4ef7-bfe2-2e974888135b" width="300">  
 
 ##  Vídeo Demonstrativo  
 
