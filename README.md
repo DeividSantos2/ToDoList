@@ -1,26 +1,41 @@
-# Aplicativo ToDoList (Lista de afazeres)
+# 📌 ToDo List - Aplicativo de Lista de Afazeres  
 
-Software utilizando Node.js com expo.
+Aplicativo desenvolvido em **React Native** utilizando **Expo** e **Node.js**. A proposta é oferecer uma ferramenta simples e eficiente para gerenciar tarefas do dia a dia.  
 
-##Requisitos
--Ter o Node.js instalado
--Ter alguma IDE ou prompt para executar o software.
+## 🚀 Requisitos  
 
-## Utilização:
-- Baixar o arquivo zip desse repositório e extrair a pasta.
-- Ir ao repositorio da pasta e utilizar "npm install"
-- Ainda no repositorio executar "npx expo start".
-- Com isso o software ja pode ser aberto na Web, Emuladores ou no proprio app do Expo Go.
+Antes de começar, certifique-se de ter os seguintes requisitos instalados:  
+- [Node.js](https://nodejs.org/)  
+- Um editor de código ou terminal para rodar o projeto ([VS Code](https://code.visualstudio.com/) recomendado)  
 
-## Posso utilizar em projetos?
-Claro, você pode baixar esse arquivo e utilizá-lo como base para estudo ou projetos.
+## 📥 Instalação e Execução  
 
-## Imagens do resultado
+1. **Baixe o projeto**  
+   - Faça o download deste repositório e extraia a pasta.  
 
-![Image](https://github.com/user-attachments/assets/39a5220e-7200-444b-b95e-14935eaccf30)
-![Image](https://github.com/user-attachments/assets/ea48b81a-6808-43b0-a7b9-d22b501241cb)
-![Image](https://github.com/user-attachments/assets/b730a1a5-3e6a-4ef7-bfe2-2e974888135b)
+2. **Instale as dependências**  
+   - No terminal, navegue até o diretório do projeto e execute:  
+     ```sh
+     npm install
+     ```  
 
-### Video demonstrativo (Expo Go)
-https://github.com/user-attachments/assets/9e23f65a-9d2f-40f7-8605-4d1c27dc4bee
+3. **Inicie o aplicativo**  
+   - Ainda no diretório do projeto, execute:  
+     ```sh
+     npx expo start
+     ```  
+   - Agora você pode rodá-lo no **navegador**, em **emuladores** ou no aplicativo **Expo Go** no seu celular.  
 
+## 📌 Posso utilizar este projeto?  
+
+Sim! Você pode usar este repositório como base para **estudos** ou como referência em **projetos pessoais**.  
+
+## 📸 Imagens do Aplicativo  
+
+<img src="https://github.com/user-attachments/assets/39a5220e-7200-444b-b95e-14935eaccf30" width="400">  
+<img src="https://github.com/user-attachments/assets/ea48b81a-6808-43b0-a7b9-d22b501241cb" width="400">  
+<img src="https://github.com/user-attachments/assets/b730a1a5-3e6a-4ef7-bfe2-2e974888135b" width="400">  
+
+## 🎬 Vídeo Demonstrativo  
+
+[🔗 Clique aqui para assistir](https://github.com/user-attachments/assets/9e23f65a-9d2f-40f7-8605-4d1c27dc4bee)  
