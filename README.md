@@ -39,3 +39,5 @@ Sim! Você pode usar este repositório como base para **estudos** ou como refer�
 ##  Vídeo Demonstrativo  
 
 [🔗 Clique aqui para assistir](https://github.com/user-attachments/assets/9e23f65a-9d2f-40f7-8605-4d1c27dc4bee)  
+
+Video feito pelo celular POCO X6. 
