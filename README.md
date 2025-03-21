@@ -17,8 +17,10 @@ Claro, você pode baixar esse arquivo e utilizá-lo como base para estudo ou pro
 
 ## Imagens do resultado
 
+![Image](https://github.com/user-attachments/assets/39a5220e-7200-444b-b95e-14935eaccf30)
+![Image](https://github.com/user-attachments/assets/ea48b81a-6808-43b0-a7b9-d22b501241cb)
+![Image](https://github.com/user-attachments/assets/b730a1a5-3e6a-4ef7-bfe2-2e974888135b)
+
 ### Video demonstrativo (Expo Go)
 https://github.com/user-attachments/assets/9e23f65a-9d2f-40f7-8605-4d1c27dc4bee
 
-### Pc:
-![Image](https://github.com/user-attachments/assets/03f2c991-eccc-4abd-b239-ed6c22e0de16)
